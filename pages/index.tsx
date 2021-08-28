@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className="space-y-14 lg:space-y-24 m-96">
       <Head>
-        <title>Create Next App</title>
+        <title>Harun Code</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
