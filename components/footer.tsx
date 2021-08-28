@@ -25,7 +25,7 @@ const Footer = () => {
               LinkedIn
             </a>
             <a
-              href="#"
+              href="https://github.com/hsheikhali1"
               className={"transition-colors hover:text-yellow-500"}
               target="_blank"
               rel="noreferrer"
