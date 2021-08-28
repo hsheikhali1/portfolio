@@ -17,7 +17,7 @@ const Footer = () => {
               Twitter
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/in/harun-sheikhali-825066106/"
               className={"transition-colors hover:text-yellow-500"}
               target="_blank"
               rel="noreferrer"
