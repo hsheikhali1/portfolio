@@ -29,7 +29,9 @@ export default function Home() {
                 rendering, TypeScript support, smart bundling, route
                 pre-fetching, and more. No config needed.
               </h2>
-              <a href="#" className="text-sm">Read more about NextJS</a>
+              <a href="#" className="text-sm">
+                Read more about NextJS
+              </a>
             </div>
           </div>
 
@@ -45,7 +47,9 @@ export default function Home() {
                 rendering, TypeScript support, smart bundling, route
                 pre-fetching, and more. No config needed.
               </h2>
-              <a href="#" className="text-sm">Read more about NextJS ></a>
+              <a href="#" className="text-sm">
+                Read more about NextJS
+              </a>
             </div>
           </div>
 
@@ -61,7 +65,9 @@ export default function Home() {
                 rendering, TypeScript support, smart bundling, route
                 pre-fetching, and more. No config needed.
               </h2>
-              <a href="#" className="text-sm">Read more about NextJS ></a>
+              <a href="#" className="text-sm">
+                Read more about NextJS
+              </a>
             </div>
           </div>
         </section>
